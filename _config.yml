@@ -1,0 +1,14 @@
+layout_spectrum: 0.22925772820599377
+typography_spectrum: 0.4496950574684888
+color:
+  brandStrength: 0.005726249190047383
+  lightness: 0.29221890214830637
+  saturation: 0.4723433281760663
+  rhythmicContrast: 0.29514112533070147
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: OrigamiWanderer
